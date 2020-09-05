@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gads Leaderboard</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit_button">Submit</string>
+    <string name="learning_tab">Learning Leaders</string>
+    <string name="skill">Skill IQ Leaders</string>
+    <string name="Hours">Learning Hours, Country</string>
+    <string name="full_name">Full name</string>
+    <string name="learning_hours_country">Learning Hours, Country</string>
+    <string name="todo">TODO</string>
+    <string name="skill_score_country"> Skill Score, Country</string>
+    <string name="button">Submit</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="google_header">Google Header</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="yes_button">Yes</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+</resources>

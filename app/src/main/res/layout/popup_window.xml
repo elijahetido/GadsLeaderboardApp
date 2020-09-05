@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="50dp"
+    android:elevation="5dp">
+
+    <TextView
+        android:id="@+id/text_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="119dp"
+        android:text="Are You Sure ?"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/cancel"
+        android:layout_width="71dp"
+        android:layout_height="52dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="29dp"
+        app:srcCompat="@drawable/ic_cancel_black_24dp" />
+
+    <Button
+        android:id="@+id/yes_button"
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/text_dialog"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="201dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/yes_button"
+        android:text="@string/yes_button"
+        android:textAllCaps="false"
+        android:textColor="#F57C00"
+        android:textSize="30sp" />
+
+</RelativeLayout>
