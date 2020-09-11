@@ -5,11 +5,7 @@ Below are the snapshots of the android application:
 
 
 
-<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851485/Screenshot_20200905_150044_com.etido.gadsleaderboardapp_qbxari.jpg" width="400" height="750">
-
-<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851478/Screenshot_20200905_145614_com.etido.gadsleaderboardapp_nbh154.jpg" width="400" height="750">
-
-<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851483/Screenshot_20200905_150006_com.etido.gadsleaderboardapp_abo5er.jpg" width="400" height="750">
+<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851485/Screenshot_20200905_150044_com.etido.gadsleaderboardapp_qbxari.jpg" width="400" height="750">|<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851478/Screenshot_20200905_145614_com.etido.gadsleaderboardapp_nbh154.jpg" width="400" height="750">|<img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851483/Screenshot_20200905_150006_com.etido.gadsleaderboardapp_abo5er.jpg" width="400" height="750">
 
 <img src="https://res.cloudinary.com/tidobrown/image/upload/v1599851477/Screenshot_20200905_145605_com.etido.gadsleaderboardapp_t3nja5.jpg" width="400" height="750">
 
